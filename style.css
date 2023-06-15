@@ -5,9 +5,22 @@
 }
 
 .inner {
-    width: 100vw;
+    width: 500px;
 }
 
 .inner img {
     width: 100%;
+}
+
+.button {
+    display: flex;
+}
+
+.button img {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
 }
